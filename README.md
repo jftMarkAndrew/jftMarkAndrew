@@ -6,8 +6,8 @@ __Hi! I'm Mark__ :man_technologist:
 * Native Russian & English speaker, currently learning Hebrew and __looking for a job__ ⚡
 
 __Also:__
+* I'm a Motion Designer with over 8 years of experience (working with Adobe Kit, Blender, Figma etc)
 * I love maps (__OpenLayers__), graphs & charts (__Chart.js__), working with __OpenAI API__
-* I'm a Motion Designer with over 8 years of experience (Adobe Kit, Figma etc)
 * I also love lighthouses for some _hopefully non-Lovecraftian_ reasons 👽
 
 __Feel free to contact me on <a href="https://www.linkedin.com/in/mark-andrew-jft/">LinkedIn</a> or <a href="https://www.behance.net/mark-andrew-jft">Behance</a>!__
