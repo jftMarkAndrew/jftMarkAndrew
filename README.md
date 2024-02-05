@@ -7,5 +7,4 @@ __Hi! I'm Mark__ :man_technologist:
 
 __Also:__
 * I love maps (__OpenLayers__), graphs & charts (__Chart.js__), experimenting with AI (__OpenAI API__) 🤖
-
-__I'm looking for a job ⚡ so feel free to contact me on <a href="https://www.linkedin.com/in/mark-andrew-jft/">LinkedIn</a> or <a href="https://www.behance.net/mark-andrew-jft">Behance</a>!__
+* Looking for a job, feel free to contact me on <a href="https://www.linkedin.com/in/mark-andrew-jft/">LinkedIn</a> or <a href="https://www.behance.net/mark-andrew-jft">Behance</a>! ⚡
