@@ -1,12 +1,11 @@
 __Hi! I'm Mark__ :man_technologist:
 
-* I'm a Full Stack Developer with about 2 years of experience
+* I'm a Full Stack Developer (2 years of experience) with strong background in Motion Design (almost 8 years of experience)
 * Working primarily with __JavaScript & TypeScript__, hobby-coding with __C#__ 
 * My most recent experience is with __Angular 13-17__, but I also enjoy working with __React & Node.Js (with Express), Unity & C#__
 * Native Russian & fluent English speaker, currently learning Hebrew and __looking for a job__ ⚡
 
 __Also:__
-* I'm a Motion Designer with over 8 years of experience (working with Adobe Kit, Blender, Figma etc)
 * I love maps (__OpenLayers__), graphs & charts (__Chart.js__), working with __OpenAI API__
 * I also love lighthouses for some _hopefully non-Lovecraftian_ reasons 👽
 
