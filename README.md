@@ -6,8 +6,6 @@ __Hi! I'm Mark__ :man_technologist:
 * Native Russian & fluent English speaker, currently living in Israel and learning Hebrew 🌴
 
 __Also:__
-* I love maps (__OpenLayers__), graphs & charts (__Chart.js__)
-* A love experimenting with __OpenAI API__
-* I also love lighthouses for some _hopefully non-Lovecraftian_ reasons 👽
+* I love maps (__OpenLayers__), graphs & charts (__Chart.js__), experimenting with AI (__OpenAI API__) 🤖
 
 __I'm looking for a job ⚡ so feel free to contact me on <a href="https://www.linkedin.com/in/mark-andrew-jft/">LinkedIn</a> or <a href="https://www.behance.net/mark-andrew-jft">Behance</a>!__
