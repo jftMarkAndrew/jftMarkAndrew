@@ -1,9 +1,9 @@
 __Hi! I'm Mark__ :man_technologist:
 
-* I'm a Full Stack Developer (2+ years of experience) with strong background in Motion Design (8+ years of experience)
-* Working primarily with __JavaScript & TypeScript__, hobby-coding with __Python__
-* My most recent experience is with __Angular__, but I also enjoy working with __React, React Native, Node.Js & Express.js, Django__
-* Native Russian & fluent English speaker, currently learning Hebrew 🌴
+* I'm a __Full Stack Developer (2+ years of experience)__ with strong background in __Motion Design (8+ years of experience)__
+* Working primarily with __JavaScript and TypeScript__, hobby-coding with __Python__
+* My worked with __Angular, React and Node.Js__, but I also have experience and would love to work with __React Native and Django__
+* Native __Russian__ & fluent __English__ speaker, currently learning __Hebrew__ 🌴
 
 __Also:__
 * I love maps (__OpenLayers__), graphs & charts (__Chart.js__), experimenting with AI (__OpenAI API__) 🤖
