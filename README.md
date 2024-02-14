@@ -8,4 +8,4 @@ __Hi! I'm Mark__ :man_technologist:
 __Also:__
 * I love maps (__OpenLayers__), graphs & charts (__Chart.js__), experimenting with AI (__OpenAI API__) 🤖
 * I also love lighthouses for some reason
-* Feel free to contact me on <a href="https://www.linkedin.com/in/mark-andrew-jft/">LinkedIn</a> or <a href="https://www.behance.net/mark-andrew-jft">Behance</a>! ⚡
+* Feel free to contact me on <a href="https://www.linkedin.com/in/mark-andrew-jft/">LinkedIn</a> or <a href="https://www.behance.net/jftMarkAndrew">Behance</a>! ⚡
