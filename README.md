@@ -1,4 +1,4 @@
-__Hi! I'm Mark__ :man_technologist:
+__Hello! My name is Mark Andrew.__
 
 * __Full Stack Developer__ with a strong background in __Motion Design__
   
