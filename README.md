@@ -1,4 +1,4 @@
-__Hello! My name is Mark Andrew.__
+# Hi, I'm Mark Andrew!
 
 * __Full Stack Developer__ with a strong background in __Motion Design__
   
