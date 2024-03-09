@@ -9,5 +9,5 @@
   - __Flask & Django__
   - __MySQL, PostgreSQL, MongoDB__
     
-* Native __Russian__, fluent __English__, learning __Hebrew__ 🌴
+* Native __Russian__, fluent __English__, learning __Hebrew__
 * Feel free to contact me on <a href="https://www.linkedin.com/in/mark-andrew-jft/">LinkedIn</a> ⚡
