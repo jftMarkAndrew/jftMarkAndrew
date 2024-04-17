@@ -4,10 +4,10 @@
   
 * Working primarily with __TypeScript & Python__
 * Working experience with:
-  - __Angular, React (& Next.js), React Native__
-  - __Node.js (& Express & NestJS)__
-  - __Flask & Django__
+  - __Angular, React with Next.js__
+  - __Node.js with Express & NestJS__
+  - __Django__
   - __MySQL, PostgreSQL, MongoDB__
     
-* Native __Russian__, fluent __English__, learning __Hebrew__
+* Native __Russian__, fluent __English__, beginner __Hebrew__
 * Feel free to contact me on <a href="https://www.linkedin.com/in/mark-andrew-jft/">LinkedIn</a> ⚡
