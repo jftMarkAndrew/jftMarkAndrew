@@ -4,7 +4,7 @@
   
 * Working primarily with __TypeScript & Python__
 * Working experience with:
-  - __Angular, React with Next.js__
+  - __Angular, React (Vanilla or Next.js)__
   - __Node.js with Express & NestJS__
   - __Django__
   - __MySQL, PostgreSQL, MongoDB__
