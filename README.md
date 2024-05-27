@@ -2,7 +2,7 @@
 
 * __Full Stack Developer__ with a strong background in __Motion Design__
   
-* Working primarily with __TypeScript & Python__
+* Working primarily with __TypeScript & Python__, hobby-coding with __Go__
 * Working experience with:
   - __Angular, React (Vanilla or Next.js)__
   - __Node.js with Express & NestJS__
