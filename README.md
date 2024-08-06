@@ -10,4 +10,4 @@
   - __MySQL, PostgreSQL, MongoDB__
     
 * Native __Russian__, fluent __English__, beginner __Hebrew__
-* Feel free to contact me on <a href="https://www.linkedin.com/in/mark-andrew-jft/">LinkedIn</a> ⚡
+* Feel free to contact me on <a href="https://www.linkedin.com/in/jftMarkAndrew/">LinkedIn</a> ⚡
